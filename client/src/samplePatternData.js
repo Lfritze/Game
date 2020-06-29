@@ -1,4 +1,4 @@
-import { notDead, boardAcreage, makeBoard } from './conwayLogic';
+import { notDead, makeBoard } from './conwayLogic';
 
 export const samplePatternData = pat => {
     let newBoard = makeBoard();
