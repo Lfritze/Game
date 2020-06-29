@@ -1,0 +1,40 @@
+html, body {
+  background-image: radial-gradient(circle, black, #2c3531, #116466) !important;
+  line-height: 0;
+}
+
+p {
+  align-content: center;
+  color: #fff;
+  text-align: center;
+}
+
+.title {
+  padding-top: 20px !important;
+}
+
+.controls {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.game-grid {
+  text-align: center;
+}
+
+.row {
+  height: 10px;
+}
+
+.cell {
+  background-color: rgb(252, 189, 73);
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  cursor: pointer;
+  border: solid 1px rgb(49, 29, 29);
+}
+
+.cell:hover {
+  background-color: blue;
+}
