@@ -1,4 +1,4 @@
-### Welcome to Fritze Cards 👋
+### Welcome to John Conway's Game of Life - Cellular Automata 👋
 ### Live Version: https://cellular-automata-game-of-life.netlify.app/
 ###
 ###
